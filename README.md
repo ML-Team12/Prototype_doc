@@ -20,6 +20,7 @@
 - People uses glasses (UV glasses)
 - Detect surroudings (brightness)
 - Accurately detect people's eyes
+- User has more than one screen.
 
 ## Tech stack
 
