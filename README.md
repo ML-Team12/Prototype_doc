@@ -1,5 +1,8 @@
 # Prototype_doc
 
+Landing Page Figma: [Web](https://www.figma.com/file/7VdqHEpuLzWk2N6Hq75zOB/POSTEYE?node-id=0%3A1)  
+App Figma: [App](https://www.figma.com/file/apP44zdHh0z0yd9cI3xzxQ/Contoh?node-id=12%3A2)
+
 ## Auto-Brightness App
 
 - Create landing page and allow user to download via browser
